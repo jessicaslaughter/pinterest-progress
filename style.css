@@ -3,8 +3,9 @@ body, html {
 }
 
 body {
-    background-image: url(gradient.jpg);
+    background-image: url(background.jpg);
     background-position: center;
+    background-size: cover;
     text-align: center;
     font-family: 'Open Sans', Helvetica;
 }
